@@ -1,0 +1,221 @@
+uniprot_id,gene,protein_name,stratum,mean_plddt,pocket_id,pocket_volume,best_nucleophile_type,best_nuc_dist,best_nuc_sasa,best_nuc_plddt,nps,nas,scs,lcs,btr_score,category,cancer_expression,cancer_high,expression_norm,priority_score
+A0A075B6S6,IGKV2D-30,Immunoglobulin kappa variable 2D-30,S5_peripheral,90.15,0,,,,,,0.0,0.0,0.0,0.0,0.0,low,0.0,False,0.0,0.0
+A0A087WVF3,TBC1D3D,TBC1 domain family member 3D,S5_peripheral,59.24,1,317.2,SER,2.87,53.68,91.0,1.0,1.0,1.0,0.7,0.955,high,0.0,False,0.0,0.6685
+A0A0B4J263,TRAV39,T cell receptor alpha variable 39,S5_peripheral,91.94,1,276.8,TYR,4.17,14.87,97.94,0.9845,0.2435,1.0,0.9,0.7526,high,0.0,False,0.0,0.5268
+A0A1B0GV85,REELD1,Reelin domain-containing protein 1,S3_singleTM,58.35,3,789.8,THR,5.38,135.34,39.06,0.8745,1.0,0.0,0.6,0.6961,medium,0.0,False,0.0,0.4873
+A0A578,TRBV5-1,T cell receptor beta variable 5-1,S5_peripheral,92.89,1,371.2,TYR,3.99,196.71,96.75,1.0,1.0,1.0,0.9,0.985,high,0.0,False,0.0,0.6895
+A0A5B9,TRBC2,T cell receptor beta constant 2,S3_singleTM,94.02,0,,,,,,0.0,0.0,0.0,0.0,0.0,low,0.0,False,0.0,0.0
+A1A5C7,SLC22A23,Solute carrier family 22 member 23,S4_multiTM,72.18,1,5869.1,SER,6.1,60.48,76.12,0.8091,1.0,0.5,0.49,0.7567,high,0.0,True,0.0,0.5297
+A6NJY1,SLC9B1P1,Putative SLC9B1-like protein SLC9B1P1,S4_multiTM,81.84,1,4380.8,SER,5.76,45.67,82.44,0.84,1.0,0.5,0.7,0.799,high,,False,,
+A6NM10,AQP12B,Putative aquaporin-12B,S4_multiTM,79.96,1,1154.2,SER,6.2,46.13,91.69,0.8,1.0,1.0,0.49,0.8535,high,2.8,False,0.0016,0.5979
+A6NMU1,OR52A4P,Olfactory receptor 52A4,S4_multiTM,83.15,2,462.4,TYR,6.4,122.54,87.06,0.7818,1.0,0.5,0.63,0.7681,high,,False,,
+O00501,CLDN5,Claudin-5,S4_multiTM,83.77,1,310.5,TYR,3.62,58.47,86.75,1.0,1.0,0.5,0.9,0.885,high,131.6,True,0.0754,0.6395
+O14493,CLDN4,Claudin-4,S4_multiTM,84.58,0,,,,,,0.0,0.0,0.0,0.0,0.0,low,0.0,True,0.0,0.0
+O14788,TNFSF11,Tumor necrosis factor ligand superfamily member 11,S1_cancer_TM,79.19,1,10246.5,TYR,4.75,82.4,98.75,0.9318,1.0,1.0,0.9,0.9611,high,5.2,False,0.003,0.6737
+O14920,IKBKB,Inhibitor of nuclear factor kappa-B kinase subunit beta,S5_peripheral,86.54,1,11188.1,THR,4.44,33.09,83.0,0.96,1.0,0.5,0.6,0.826,high,0.0,True,0.0,0.5782
+O15244,SLC22A2,Solute carrier family 22 member 2,S4_multiTM,83.03,1,5234.6,THR,5.9,70.4,79.75,0.8273,1.0,0.5,0.6,0.7795,high,124.4,True,0.0712,0.5623
+O15403,SLC16A6,Monocarboxylate transporter 7,S4_multiTM,76.42,2,280.1,TYR,3.98,51.63,91.94,1.0,1.0,1.0,0.9,0.985,high,21.9,True,0.0125,0.6932
+O15554,KCNN4,Intermediate conductance calcium-activated potassium channel protein 4,S4_multiTM,84.19,1,4826.2,TYR,4.04,65.56,90.25,0.9964,1.0,1.0,0.9,0.9837,high,0.0,False,0.0,0.6886
+O42043,ERVK-18,Endogenous retrovirus group K member 18 Env polyprotein,S3_singleTM,73.12,2,1022.6,TYR,6.2,49.23,74.12,0.8,1.0,0.5,0.63,0.7745,high,,False,,
+O43463,SUV39H1,Histone-lysine N-methyltransferase SUV39H1,S5_peripheral,88.49,3,556.9,TYR,3.76,59.05,88.44,1.0,1.0,0.5,0.9,0.885,high,0.0,False,0.0,0.6195
+O43570,CA12,Carbonic anhydrase 12,S3_singleTM,87.8,1,1069.9,TYR,6.19,50.2,97.19,0.8009,1.0,1.0,0.63,0.8748,high,881.0,True,0.5046,0.7448
+O60637,TSPAN3,Tetraspanin-3,S4_multiTM,87.04,2,212.6,TYR,3.84,15.93,86.56,1.0,0.2965,0.5,0.9,0.6739,medium,0.0,True,0.0,0.4718
+O60831,PRAF2,PRA1 family protein 2,S4_multiTM,83.74,2,202.5,SER,7.18,46.35,53.81,0.7109,1.0,0.0,0.49,0.6223,medium,0.0,False,0.0,0.4356
+O75030,MITF,Microphthalmia-associated transcription factor,S2_cancer_nonTM,60.78,2,374.6,SER,4.06,106.19,47.25,0.9945,1.0,0.0,0.7,0.7531,high,98.6,True,0.0565,0.5399
+O75038,PLCH2,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase eta-2",S5_peripheral,61.99,1,2237.6,LYS,4.87,207.93,31.52,0.9209,1.0,0.0,0.5,0.6973,medium,14.8,True,0.0085,0.4899
+O75477,ERLIN1,Erlin-1,S3_singleTM,85.19,1,1019.2,TYR,8.54,156.4,62.78,0.5873,1.0,0.0,0.63,0.6,medium,0.0,True,0.0,0.42
+O75747,PIK3C2G,Phosphatidylinositol 3-kinase C2 domain-containing subunit gamma,S5_peripheral,73.6,3,280.1,TYR,4.87,32.47,87.0,0.9209,1.0,0.5,0.9,0.8573,high,5.0,False,0.0029,0.6009
+O75964,ATP5MG,"ATP synthase F(0) complex subunit g, mitochondrial",S5_peripheral,90.95,1,1366.9,TYR,9.76,114.96,93.44,0.4764,1.0,1.0,0.63,0.7612,high,0.0,True,0.0,0.5329
+O76082,SLC22A5,Organic cation/carnitine transporter 2,S4_multiTM,86.52,2,1944.0,THR,5.27,84.27,91.25,0.8845,1.0,1.0,0.6,0.8996,high,0.0,False,0.0,0.6297
+O94850,DDN,Dendrin,S5_peripheral,45.79,2,705.4,SER,3.34,97.94,30.88,1.0,1.0,0.0,0.7,0.755,high,3.7,False,0.0021,0.529
+O94898,LRIG2,Leucine-rich repeats and immunoglobulin-like domains protein 2,S3_singleTM,74.48,3,388.1,SER,7.92,39.31,93.62,0.6436,1.0,1.0,0.49,0.7988,high,0.0,False,0.0,0.5591
+O95206,PCDH8,Protocadherin-8,S3_singleTM,69.68,1,4434.8,,,,,0.0,0.0,0.0,0.0,0.0,low,3.0,True,0.0017,0.0
+O95487,SEC24B,Protein transport protein Sec24B,S5_peripheral,71.43,1,3267.0,,,,,0.0,0.0,0.0,0.0,0.0,low,0.0,False,0.0,0.0
+O95672,ECEL1,Endothelin-converting enzyme-like 1,S3_singleTM,87.78,3,523.1,TYR,4.46,22.03,96.94,0.9582,0.6015,1.0,0.9,0.8508,high,31.4,True,0.018,0.6002
+O95980,RECK,Reversion-inducing cysteine-rich protein with Kazal motifs,S2_cancer_nonTM,81.08,3,509.6,LYS,4.84,101.14,92.44,0.9236,1.0,1.0,0.5,0.8983,high,0.0,False,0.0,0.6288
+P00395,MT-CO1,Cytochrome c oxidase subunit 1,S1_cancer_TM,95.77,3,300.4,TYR,4.79,41.14,92.81,0.9282,1.0,1.0,0.9,0.9599,high,0.0,True,0.0,0.6719
+P00533,EGFR,Epidermal growth factor receptor,S1_cancer_TM,75.95,1,408.4,SER,3.19,35.79,94.19,1.0,1.0,1.0,0.7,0.955,high,324.2,True,0.1857,0.7217
+P01112,HRAS,GTPase HRas,S2_cancer_nonTM,91.95,0,,,,,,0.0,0.0,0.0,0.0,0.0,low,0.0,False,0.0,0.0
+P01737,TRAV8-4,T cell receptor alpha variable 8-4,S5_peripheral,90.62,1,270.0,TYR,4.55,28.45,97.94,0.95,0.9225,1.0,0.9,0.9442,high,0.0,False,0.0,0.661
+P01833,PIGR,Polymeric immunoglobulin receptor,S3_singleTM,76.69,2,388.1,THR,4.49,74.26,93.0,0.9555,1.0,1.0,0.6,0.9244,high,881.6,True,0.5049,0.7871
+P01857,IGHG1,Immunoglobulin heavy constant gamma 1,S1_cancer_TM,86.7,3,357.8,LYS,5.89,88.03,97.5,0.8282,1.0,1.0,0.5,0.8649,high,0.0,False,0.0,0.6054
+P04626,ERBB2,Receptor tyrosine-protein kinase erbB-2,S1_cancer_TM,73.98,2,688.5,SER,8.48,48.82,93.38,0.5927,1.0,1.0,0.49,0.781,high,0.0,False,0.0,0.5467
+P04920,SLC4A2,Anion exchange protein 2,S4_multiTM,65.83,1,1572.8,LYS,7.78,207.17,25.17,0.6564,1.0,0.0,0.35,0.5822,medium,0.0,True,0.0,0.4076
+P06241,FYN,Tyrosine-protein kinase Fyn,S2_cancer_nonTM,80.84,2,1839.4,LYS,6.55,79.74,94.31,0.7682,1.0,1.0,0.35,0.8214,high,182.7,True,0.1046,0.6007
+P07332,FES,Tyrosine-protein kinase Fes/Fps,S2_cancer_nonTM,89.37,3,475.9,THR,7.07,77.99,97.38,0.7209,1.0,1.0,0.42,0.8153,high,0.0,False,0.0,0.5707
+P07949,RET,Proto-oncogene tyrosine-protein kinase receptor Ret,S1_cancer_TM,78.79,1,1279.1,SER,9.77,66.69,89.06,0.4755,1.0,0.5,0.49,0.6399,medium,20.0,True,0.0115,0.4501
+P08247,SYP,Synaptophysin,S4_multiTM,76.73,3,347.6,TYR,4.1,51.78,97.12,0.9909,1.0,1.0,0.9,0.9818,high,45.8,True,0.0262,0.695
+P09038,FGF2,Fibroblast growth factor 2,S5_peripheral,70.27,2,280.1,TYR,8.23,30.5,98.12,0.6155,1.0,1.0,0.63,0.8099,high,0.0,False,0.0,0.5669
+P09769,FGR,Tyrosine-protein kinase Fgr,S2_cancer_nonTM,82.18,1,7279.9,TYR,2.22,30.84,97.69,1.0,1.0,1.0,0.9,0.985,high,0.0,False,0.0,0.6895
+P10415,BCL2,Apoptosis regulator Bcl-2,S1_cancer_TM,72.02,3,344.2,TYR,7.53,27.61,86.19,0.6791,0.8805,0.5,0.63,0.6963,medium,0.0,True,0.0,0.4874
+P11142,HSPA8,Heat shock cognate 71 kDa protein,S5_peripheral,88.3,3,627.8,TYR,3.33,171.99,72.69,1.0,1.0,0.5,0.9,0.885,high,0.0,False,0.0,0.6195
+P11802,CDK4,Cyclin-dependent kinase 4,S2_cancer_nonTM,86.81,2,354.4,THR,3.57,36.18,98.62,1.0,1.0,1.0,0.6,0.94,high,998.2,True,0.5717,0.8192
+P14770,GP9,Platelet glycoprotein IX,S3_singleTM,84.67,1,1096.9,TYR,4.54,26.06,90.75,0.9509,0.803,1.0,0.9,0.9087,high,0.0,False,0.0,0.6361
+P15941,MUC1,Mucin-1,S1_cancer_TM,47.41,2,9868.5,THR,4.66,142.84,36.38,0.94,1.0,0.0,0.6,0.719,high,0.0,True,0.0,0.5033
+P16234,PDGFRA,Platelet-derived growth factor receptor alpha,S1_cancer_TM,72.71,2,506.2,TYR,4.0,34.51,89.19,1.0,1.0,0.5,0.9,0.885,high,101.1,True,0.0579,0.6349
+P16422,EPCAM,Epithelial cell adhesion molecule,S1_cancer_TM,87.2,3,405.0,SER,5.65,87.7,93.38,0.85,1.0,1.0,0.7,0.9025,high,0.0,True,0.0,0.6317
+P16591,FER,Tyrosine-protein kinase Fer,S2_cancer_nonTM,87.94,2,803.2,LYS,5.06,136.83,89.62,0.9036,1.0,0.5,0.5,0.7913,high,0.0,True,0.0,0.5539
+P16870,CPE,Carboxypeptidase E,S5_peripheral,90.36,3,442.1,TYR,5.19,45.13,98.0,0.8918,1.0,1.0,0.9,0.9471,high,556.6,True,0.3188,0.7536
+P17252,PRKCA,Protein kinase C alpha type,S2_cancer_nonTM,86.38,1,9601.9,LYS,6.64,78.26,93.38,0.76,1.0,1.0,0.35,0.8185,high,0.0,False,0.0,0.573
+P17861,XBP1,X-box-binding protein 1,S1_cancer_TM,68.29,2,2055.4,LYS,6.59,154.34,95.5,0.7645,1.0,1.0,0.35,0.8201,high,1746.0,True,1.0,0.8201
+P19474,TRIM21,E3 ubiquitin-protein ligase TRIM21,S5_peripheral,90.66,1,975.4,TYR,4.31,47.17,96.44,0.9718,1.0,1.0,0.9,0.9751,high,0.0,True,0.0,0.6826
+P21802,FGFR2,Fibroblast growth factor receptor 2,S1_cancer_TM,73.91,2,330.8,CYS,5.18,134.45,31.31,0.8927,1.0,0.0,1.0,0.7625,high,0.0,False,0.0,0.5337
+P22794,EVI2A,Protein EVI2A,S1_cancer_TM,56.71,1,1775.2,LYS,2.99,181.14,53.69,1.0,1.0,0.0,0.5,0.725,high,35.9,True,0.0206,0.512
+P23510,TNFSF4,Tumor necrosis factor ligand superfamily member 4,S1_cancer_TM,84.78,1,246.4,TYR,7.22,82.51,96.0,0.7073,1.0,1.0,0.63,0.842,high,0.0,False,0.0,0.5894
+P29033,GJB2,Gap junction beta-2 protein,S4_multiTM,86.18,1,617.6,LYS,3.01,188.37,67.38,1.0,1.0,0.0,0.5,0.725,high,656.4,True,0.3759,0.5893
+P29320,EPHA3,Ephrin type-A receptor 3,S1_cancer_TM,80.77,0,,,,,,0.0,0.0,0.0,0.0,0.0,low,0.0,False,0.0,0.0
+P30414,NKTR,NK-tumor recognition protein,S2_cancer_nonTM,43.86,2,492.8,SER,1.77,99.08,33.56,1.0,1.0,0.0,0.7,0.755,high,0.0,True,0.0,0.5285
+P30988,CALCR,Calcitonin receptor,S4_multiTM,78.69,1,12497.6,TYR,4.2,47.15,90.12,0.9818,1.0,1.0,0.9,0.9786,high,,False,,
+P40337,VHL,von Hippel-Lindau disease tumor suppressor,S2_cancer_nonTM,84.41,2,347.6,TYR,6.3,45.9,98.25,0.7909,1.0,1.0,0.63,0.8713,high,0.0,True,0.0,0.6099
+P41273,TNFSF9,Tumor necrosis factor ligand superfamily member 9,S1_cancer_TM,76.63,3,371.2,THR,4.27,49.8,85.81,0.9755,1.0,0.5,0.6,0.8314,high,0.0,False,0.0,0.582
+P41743,PRKCI,Protein kinase C iota type,S2_cancer_nonTM,80.3,1,12349.1,LYS,5.65,71.46,89.31,0.85,1.0,0.5,0.5,0.7725,high,0.0,False,0.0,0.5407
+P43489,TNFRSF4,Tumor necrosis factor receptor superfamily member 4,S1_cancer_TM,76.98,3,384.8,TYR,7.1,178.24,91.0,0.7182,1.0,1.0,0.63,0.8459,high,0.0,False,0.0,0.5921
+P50391,NPY4R,Neuropeptide Y receptor type 4,S4_multiTM,80.31,2,769.5,TYR,3.98,135.13,93.56,1.0,1.0,1.0,0.9,0.985,high,7.2,False,0.0041,0.6907
+P50607,TUB,Tubby protein homolog,S5_peripheral,69.14,2,1873.1,SER,7.19,56.18,95.06,0.71,1.0,1.0,0.49,0.822,high,0.0,False,0.0,0.5754
+P54826,GAS1,Growth arrest-specific protein 1,S5_peripheral,69.77,3,371.2,TYR,4.6,53.02,94.44,0.9455,1.0,1.0,0.9,0.9659,high,37.9,True,0.0217,0.6824
+P54855,UGT2B15,UDP-glucuronosyltransferase 2B15,S3_singleTM,93.36,2,769.5,TYR,6.8,99.56,93.06,0.7455,1.0,1.0,0.63,0.8554,high,78.3,True,0.0448,0.6103
+P55291,CDH15,Cadherin-15,S3_singleTM,78.37,3,2146.5,THR,7.28,70.61,91.62,0.7018,1.0,1.0,0.42,0.8086,high,2.4,False,0.0014,0.5664
+P56373,P2RX3,P2X purinoceptor 3,S4_multiTM,88.44,3,880.9,TYR,7.01,120.34,96.62,0.7264,1.0,1.0,0.63,0.8487,high,0.0,False,0.0,0.5941
+P56559,ARL4C,ADP-ribosylation factor-like protein 4C,S5_peripheral,93.37,1,928.1,TYR,7.05,29.28,97.75,0.7227,0.964,1.0,0.63,0.8367,high,0.0,False,0.0,0.5857
+P57738,TCTA,T-cell leukemia translocation-altered gene protein,S1_cancer_TM,65.75,0,,,,,,0.0,0.0,0.0,0.0,0.0,low,0.0,True,0.0,0.0
+P60033,CD81,CD81 antigen,S4_multiTM,87.35,2,209.2,TYR,8.75,39.0,81.62,0.5682,1.0,0.5,0.63,0.6934,medium,0.0,False,0.0,0.4854
+P61006,RAB8A,Ras-related protein Rab-8A,S2_cancer_nonTM,85.41,2,307.1,CYS,2.39,35.66,95.25,1.0,1.0,1.0,1.0,1.0,high,0.0,False,0.0,0.7
+P61764,STXBP1,Syntaxin-binding protein 1,S5_peripheral,90.42,1,7418.2,TYR,3.71,13.31,98.0,1.0,0.1655,1.0,0.9,0.7346,high,105.2,True,0.0603,0.5275
+P62070,RRAS2,Ras-related protein R-Ras2,S2_cancer_nonTM,86.7,3,280.1,LYS,5.15,39.08,95.69,0.8955,1.0,1.0,0.5,0.8884,high,0.0,False,0.0,0.6219
+P62166,NCS1,Neuronal calcium sensor 1,S5_peripheral,87.8,1,1350.0,TYR,4.94,137.63,53.56,0.9145,1.0,0.0,0.9,0.7551,high,0.0,False,0.0,0.5286
+P78324,SIRPA,Tyrosine-protein phosphatase non-receptor type substrate 1,S3_singleTM,77.82,3,2075.6,TYR,5.82,17.99,97.06,0.8345,0.3995,1.0,0.9,0.7469,high,0.0,True,0.0,0.5229
+P78383,SLC35B1,Solute carrier family 35 member B1,S4_multiTM,86.42,1,2484.0,TYR,3.0,129.85,78.06,1.0,1.0,0.5,0.9,0.885,high,0.0,False,0.0,0.6195
+P81605,DCD,Dermcidin,S3_singleTM,64.67,3,246.4,THR,6.31,76.18,78.38,0.79,1.0,0.5,0.42,0.7395,high,332.5,True,0.1904,0.5599
+P98153,DGCR2,Integral membrane protein DGCR2/IDD,S3_singleTM,63.08,1,10624.5,TYR,9.39,29.02,80.81,0.51,0.951,0.5,0.63,0.6583,medium,0.0,False,0.0,0.4608
+Q00535,CDK5,Cyclin-dependent kinase 5,S5_peripheral,91.56,1,540.0,TYR,4.7,72.87,67.44,0.9364,1.0,0.0,0.9,0.7627,high,0.0,True,0.0,0.5339
+Q02846,GUCY2D,Retinal guanylyl cyclase 1,S3_singleTM,82.01,1,11026.1,SER,5.83,60.26,93.12,0.8336,1.0,1.0,0.7,0.8968,high,0.0,False,0.0,0.6277
+Q02978,SLC25A11,Mitochondrial 2-oxoglutarate/malate carrier protein,S1_cancer_TM,86.75,1,2669.6,TYR,9.31,73.48,89.31,0.5173,1.0,0.5,0.63,0.6755,medium,0.0,True,0.0,0.4729
+Q04759,PRKCQ,Protein kinase C theta type,S5_peripheral,79.73,1,509.6,SER,4.2,75.16,97.06,0.9818,1.0,1.0,0.7,0.9486,high,0.0,False,0.0,0.664
+Q04912,MST1R,Macrophage-stimulating protein receptor,S1_cancer_TM,80.14,1,610.9,SER,5.56,88.23,30.34,0.8582,1.0,0.0,0.7,0.7054,high,0.0,True,0.0,0.4938
+Q05655,PRKCD,Protein kinase C delta type,S2_cancer_nonTM,80.71,1,324.0,TYR,4.99,208.87,75.38,0.91,1.0,0.5,0.9,0.8535,high,0.0,True,0.0,0.5974
+Q08174,PCDH1,Protocadherin-1,S3_singleTM,76.21,3,1603.1,THR,4.71,31.36,78.94,0.9355,1.0,0.5,0.6,0.8174,high,0.0,False,0.0,0.5722
+Q12772,SREBF2,Sterol regulatory element-binding protein 2,S4_multiTM,61.88,3,1991.2,SER,4.34,15.96,85.56,0.9691,0.298,0.5,0.7,0.6336,medium,0.0,False,0.0,0.4435
+Q12797,ASPH,Aspartyl/asparaginyl beta-hydroxylase,S3_singleTM,71.84,2,1377.0,LYS,7.35,200.88,31.8,0.6955,1.0,0.0,0.35,0.5959,medium,0.0,True,0.0,0.4171
+Q13255,GRM1,Metabotropic glutamate receptor 1,S4_multiTM,70.94,1,5548.5,TYR,9.61,57.03,90.06,0.49,1.0,1.0,0.63,0.766,high,3.0,False,0.0017,0.5366
+Q13410,BTN1A1,Butyrophilin subfamily 1 member A1,S3_singleTM,84.24,3,266.6,TYR,8.39,39.27,97.81,0.6009,1.0,1.0,0.63,0.8048,high,0.0,False,0.0,0.5634
+Q13477,MADCAM1,Mucosal addressin cell adhesion molecule 1,S3_singleTM,74.63,1,540.0,SER,3.18,54.17,91.62,1.0,1.0,1.0,0.7,0.955,high,4.9,False,0.0028,0.6693
+Q13492,PICALM,Phosphatidylinositol-binding clathrin assembly protein,S2_cancer_nonTM,66.21,3,418.5,SER,6.47,77.42,96.06,0.7755,1.0,1.0,0.49,0.8449,high,0.0,True,0.0,0.5914
+Q14126,DSG2,Desmoglein-2,S3_singleTM,64.51,3,1431.0,SER,9.15,105.99,31.02,0.5318,1.0,0.0,0.49,0.5596,medium,0.0,True,0.0,0.3917
+Q14162,SCARF1,Scavenger receptor class F member 1,S3_singleTM,65.16,3,3648.4,LYS,5.08,196.39,29.23,0.9018,1.0,0.0,0.5,0.6906,medium,0.0,False,0.0,0.4834
+Q14435,GALNT3,Polypeptide N-acetylgalactosaminyltransferase 3,S1_cancer_TM,89.82,1,5902.9,TYR,4.39,24.2,97.62,0.9645,0.71,1.0,0.9,0.8856,high,0.0,True,0.0,0.6199
+Q14626,IL11RA,Interleukin-11 receptor subunit alpha,S3_singleTM,81.54,1,1144.1,TYR,4.8,53.21,97.5,0.9273,1.0,1.0,0.9,0.9595,high,0.0,False,0.0,0.6717
+Q14656,TMEM187,Transmembrane protein 187,S4_multiTM,92.05,2,347.6,LYS,4.94,76.95,93.94,0.9145,1.0,1.0,0.5,0.8951,high,0.0,False,0.0,0.6266
+Q15388,TOMM20,Mitochondrial import receptor subunit TOM20 homolog,S3_singleTM,76.43,1,1194.8,SER,6.98,93.04,55.0,0.7291,1.0,0.0,0.49,0.6287,medium,0.0,True,0.0,0.4401
+Q15619,OR1C1,Olfactory receptor 1C1,S4_multiTM,87.67,2,303.8,TYR,7.09,37.14,95.44,0.7191,1.0,1.0,0.63,0.8462,high,0.0,False,0.0,0.5923
+Q15743,GPR68,G protein-coupled receptor 68,S1_cancer_TM,80.41,1,2166.8,CYS,5.05,78.05,74.94,0.9045,1.0,0.5,1.0,0.8666,high,0.0,False,0.0,0.6066
+Q16394,EXT1,Exostosin-1,S1_cancer_TM,84.79,2,4073.6,TYR,4.87,45.54,93.5,0.9209,1.0,1.0,0.9,0.9573,high,0.0,False,0.0,0.6701
+Q16512,PKN1,Serine/threonine-protein kinase N1,S5_peripheral,72.02,3,253.1,SER,2.55,106.29,23.62,1.0,1.0,0.0,0.7,0.755,high,0.0,True,0.0,0.5285
+Q2M3G0,ABCB5,ATP-binding cassette sub-family B member 5,S4_multiTM,84.95,3,229.5,SER,3.31,93.72,88.81,1.0,1.0,0.5,0.7,0.855,high,29.6,True,0.017,0.6028
+Q2NKQ1,SGSM1,Small G protein signaling modulator 1,S5_peripheral,65.85,2,2220.8,LYS,7.22,188.87,39.06,0.7073,1.0,0.0,0.35,0.6,medium,6.2,True,0.0036,0.4207
+Q3KNS1,PTCHD3,Patched domain-containing protein 3,S4_multiTM,81.55,1,13270.5,TYR,3.99,63.37,88.25,1.0,1.0,0.5,0.9,0.885,high,,False,,
+Q53GL0,PLEKHO1,Pleckstrin homology domain-containing family O member 1,S2_cancer_nonTM,68.69,3,1896.8,SER,4.95,104.05,45.62,0.9136,1.0,0.0,0.7,0.7248,high,0.0,False,0.0,0.5073
+Q58HT5,AWAT1,Acyl-CoA wax alcohol acyltransferase 1,S4_multiTM,93.04,2,246.4,TYR,4.38,62.56,92.5,0.9655,1.0,1.0,0.9,0.9729,high,0.0,False,0.0,0.681
+Q5H943,CT83,Kita-kyushu lung cancer antigen 1,S1_cancer_TM,70.85,1,955.1,LYS,9.55,134.0,82.0,0.4955,1.0,0.5,0.35,0.6259,medium,15.9,True,0.0091,0.4398
+Q5NUL3,FFAR4,Free fatty acid receptor 4,S4_multiTM,79.3,2,367.9,THR,7.78,77.48,90.19,0.6564,1.0,1.0,0.42,0.7927,high,7.3,False,0.0042,0.5559
+Q5SQI0,ATAT1,Alpha-tubulin N-acetyltransferase 1,S5_peripheral,68.44,2,934.9,TYR,4.85,65.17,98.81,0.9227,1.0,1.0,0.9,0.958,high,7.1,False,0.0041,0.6717
+Q63HM2,PCNX4,Pecanex-like protein 4,S4_multiTM,78.17,2,2214.0,SER,7.54,18.91,91.56,0.6782,0.4455,1.0,0.49,0.6445,medium,0.0,True,0.0,0.4512
+Q68CQ7,GLT8D1,Glycosyltransferase 8 domain-containing protein 1,S3_singleTM,84.76,2,1809.0,LYS,5.31,26.34,95.31,0.8809,0.817,1.0,0.5,0.8284,high,0.0,False,0.0,0.5799
+Q6E213,AWAT2,Acyl-CoA wax alcohol acyltransferase 2,S4_multiTM,94.31,1,1474.9,TYR,8.28,17.07,81.12,0.6109,0.3535,0.5,0.63,0.5144,medium,0.0,False,0.0,0.3601
+Q6P9G4,TMEM154,Transmembrane protein 154,S3_singleTM,62.51,2,381.4,SER,2.75,43.83,80.75,1.0,1.0,0.5,0.7,0.855,high,20.4,True,0.0117,0.6015
+Q6PCB0,VWA1,von Willebrand factor A domain-containing protein 1,S5_peripheral,78.37,1,4029.8,SER,2.44,17.84,83.62,1.0,0.392,0.5,0.7,0.6726,medium,0.0,False,0.0,0.4708
+Q6PIL6,KCNIP4,Kv channel-interacting protein 4,S5_peripheral,69.84,1,1984.5,TYR,1.14,117.26,33.12,1.0,1.0,0.0,0.9,0.785,high,9.2,False,0.0053,0.5507
+Q6QAJ8,TMEM220,Transmembrane protein 220,S4_multiTM,91.65,1,378.0,TYR,5.33,14.76,98.56,0.8791,0.238,1.0,0.9,0.7141,high,0.0,False,0.0,0.4999
+Q6UXK5,LRRN1,Leucine-rich repeat neuronal protein 1,S3_singleTM,81.96,2,4846.5,THR,7.5,47.66,94.12,0.6818,1.0,1.0,0.42,0.8016,high,23.6,True,0.0135,0.5644
+Q6ZMD2,SPNS3,Protein spinster homolog 3,S4_multiTM,84.46,1,4924.1,THR,4.49,31.44,86.31,0.9555,1.0,0.5,0.6,0.8244,high,1.7,False,0.001,0.5773
+Q6ZRH7,CATSPERG,Cation channel sperm-associated auxiliary subunit gamma,S3_singleTM,83.85,2,907.9,TYR,8.45,96.58,93.81,0.5955,1.0,1.0,0.63,0.8029,high,0.0,False,0.0,0.562
+Q6ZVD7,STOX1,Storkhead-box protein 1,S5_peripheral,48.65,3,1377.0,TYR,9.65,203.73,33.03,0.4864,1.0,0.0,0.63,0.5647,medium,0.0,False,0.0,0.3953
+Q6ZWE6,PLEKHM3,Pleckstrin homology domain-containing family M member 3,S5_peripheral,64.93,2,762.8,THR,8.3,121.03,30.02,0.6091,1.0,0.0,0.42,0.5762,medium,0.0,False,0.0,0.4033
+Q6ZXV5,TMTC3,Protein O-mannosyl-transferase TMTC3,S4_multiTM,87.64,2,1289.2,TYR,7.83,35.06,97.38,0.6518,1.0,1.0,0.63,0.8226,high,0.0,False,0.0,0.5758
+Q70SY1,CREB3L2,Cyclic AMP-responsive element-binding protein 3-like protein 2,S1_cancer_TM,55.52,3,384.8,CYS,6.51,99.95,43.97,0.7718,1.0,0.0,0.7,0.6751,medium,0.0,True,0.0,0.4726
+Q7LC44,ARC,Activity-regulated cytoskeleton-associated protein,S5_peripheral,65.07,2,246.4,LYS,3.54,72.83,83.12,1.0,1.0,0.5,0.5,0.825,high,59.7,True,0.0342,0.586
+Q86UF2,CTAGE6,cTAGE family member 6,S3_singleTM,68.69,1,12477.4,TYR,3.77,125.67,96.75,1.0,1.0,1.0,0.9,0.985,high,0.0,True,0.0,0.6895
+Q8IUH5,ZDHHC17,Palmitoyltransferase ZDHHC17,S1_cancer_TM,87.43,2,432.0,THR,3.8,37.3,95.0,1.0,1.0,1.0,0.6,0.94,high,0.0,True,0.0,0.658
+Q8IUN9,CLEC10A,C-type lectin domain family 10 member A,S3_singleTM,80.41,2,685.1,CYS,0.71,19.54,89.12,1.0,0.477,0.5,1.0,0.7431,high,0.0,False,0.0,0.5202
+Q8IUW5,RELL1,RELT-like protein 1,S3_singleTM,60.29,1,6523.9,SER,2.62,73.28,70.31,1.0,1.0,0.5,0.7,0.855,high,0.0,True,0.0,0.5985
+Q8IVJ8,APRG1,APRG1 tumor suppressor candidate,S1_cancer_TM,42.94,2,243.0,LYS,5.15,195.11,41.16,0.8955,1.0,0.0,0.5,0.6884,medium,,False,,
+Q8IVU1,IGDCC3,Immunoglobulin superfamily DCC subclass member 3,S3_singleTM,74.41,2,1110.4,THR,2.41,41.04,90.81,1.0,1.0,1.0,0.6,0.94,high,10.7,True,0.0061,0.6597
+Q8IYU2,HACE1,E3 ubiquitin-protein ligase HACE1,S5_peripheral,83.55,2,995.6,SER,6.67,49.57,95.5,0.7573,1.0,1.0,0.49,0.8385,high,0.0,False,0.0,0.587
+Q8IZV2,CMTM8,CKLF-like MARVEL transmembrane domain-containing protein 8,S4_multiTM,77.65,1,212.6,TYR,4.6,44.45,77.69,0.9455,1.0,0.5,0.9,0.8659,high,0.0,False,0.0,0.6061
+Q8N565,MREG,Melanoregulin,S5_peripheral,71.92,1,1761.8,TYR,9.34,191.17,39.38,0.5145,1.0,0.0,0.63,0.5746,medium,0.0,False,0.0,0.4022
+Q8N5S1,SLC25A41,Mitochondrial carrier protein SCaMC-3L,S4_multiTM,72.97,3,232.9,LYS,3.68,37.97,91.88,1.0,1.0,1.0,0.5,0.925,high,0.0,False,0.0,0.6475
+Q8N5V2,NGEF,Ephexin-1,S5_peripheral,71.48,1,1366.9,TYR,8.28,40.12,96.81,0.6109,1.0,1.0,0.63,0.8083,high,58.2,True,0.0333,0.5739
+Q8N653,LZTR1,Leucine-zipper-like transcriptional regulator 1,S2_cancer_nonTM,80.01,3,351.0,TYR,4.49,32.15,95.62,0.9555,1.0,1.0,0.9,0.9694,high,0.0,False,0.0,0.6786
+Q8N9I5,FADS6,Fatty acid desaturase 6,S4_multiTM,90.59,1,776.2,TYR,6.54,54.69,97.31,0.7691,1.0,1.0,0.63,0.8637,high,,False,,
+Q8NBI6,XXYLT1,Xyloside xylosyltransferase 1,S3_singleTM,83.97,2,543.4,CYS,6.78,30.66,98.69,0.7473,1.0,1.0,0.7,0.8665,high,0.0,False,0.0,0.6066
+Q8NG94,OR11H1,Olfactory receptor 11H1,S4_multiTM,81.27,3,253.1,TYR,7.07,39.43,93.0,0.7209,1.0,1.0,0.63,0.8468,high,,False,,
+Q8NGD3,OR4K5,Olfactory receptor 4K5,S4_multiTM,85.5,1,610.9,TYR,8.69,12.74,93.75,0.5736,0.137,1.0,0.63,0.5364,medium,0.0,False,0.0,0.3755
+Q8NGP3,OR5M9,Olfactory receptor 5M9,S4_multiTM,89.86,2,337.5,TYR,5.29,129.36,87.75,0.8827,1.0,0.5,0.9,0.844,high,0.0,False,0.0,0.5908
+Q8NI08,NCOA7,Nuclear receptor coactivator 7,S5_peripheral,55.63,3,3169.1,LYS,7.76,209.83,34.81,0.6582,1.0,0.0,0.35,0.5829,medium,0.0,False,0.0,0.408
+Q8TAX9,GSDMB,Gasdermin-B,S4_multiTM,71.54,1,5329.1,TYR,7.24,76.15,87.12,0.7055,1.0,0.5,0.63,0.7414,high,0.0,False,0.0,0.519
+Q8TCT6,SPPL3,Signal peptide peptidase-like 3,S4_multiTM,77.85,1,3783.4,TYR,7.94,110.11,94.56,0.6418,1.0,1.0,0.63,0.8191,high,0.0,False,0.0,0.5734
+Q8TDQ0,HAVCR2,Hepatitis A virus cellular receptor 2,S1_cancer_TM,71.78,3,256.5,TYR,3.88,214.42,46.25,1.0,1.0,0.0,0.9,0.785,high,61.6,True,0.0353,0.5578
+Q8TDW4,ST7L,Suppressor of tumorigenicity 7 protein-like,S1_cancer_TM,79.19,2,1113.8,THR,1.31,94.97,93.19,1.0,1.0,1.0,0.6,0.94,high,0.0,False,0.0,0.658
+Q8WY98,TMEM234,Transmembrane protein 234,S4_multiTM,84.56,1,432.0,SER,5.27,60.79,78.0,0.8845,1.0,0.5,0.7,0.8146,high,0.0,False,0.0,0.5702
+Q92523,CPT1B,"Carnitine O-palmitoyltransferase 1, muscle isoform",S4_multiTM,92.18,2,3800.2,TYR,7.13,56.06,96.81,0.7155,1.0,1.0,0.63,0.8449,high,57.0,True,0.0326,0.5997
+Q969V1,MCHR2,Melanin-concentrating hormone receptor 2,S4_multiTM,88.85,1,1960.9,TYR,6.57,38.12,90.62,0.7664,1.0,1.0,0.63,0.8627,high,0.0,False,0.0,0.6039
+Q96BI1,SLC67A1,Solute carrier family 67 member A1,S1_cancer_TM,86.91,1,2365.9,SER,5.66,78.02,86.19,0.8491,1.0,0.5,0.7,0.8022,high,0.0,False,0.0,0.5615
+Q96JQ2,CLMN,Calmin,S3_singleTM,52.23,1,6145.9,,,,,0.0,0.0,0.0,0.0,0.0,low,0.0,False,0.0,0.0
+Q96KR6,MIMS2,Mitochondrial inner membrane scaffold 2,S1_cancer_TM,67.39,2,374.6,TYR,5.44,27.39,83.88,0.8691,0.8695,0.5,0.9,0.8,high,0.0,True,0.0,0.56
+Q96R08,OR5B12,Olfactory receptor 5B12,S4_multiTM,89.55,2,472.5,THR,2.32,76.95,90.5,1.0,1.0,1.0,0.6,0.94,high,0.0,False,0.0,0.658
+Q96RJ3,TNFRSF13C,Tumor necrosis factor receptor superfamily member 13C,S1_cancer_TM,63.02,2,482.6,SER,5.91,88.77,51.34,0.8264,1.0,0.0,0.7,0.6942,medium,0.0,True,0.0,0.486
+Q96SE0,ABHD1,Protein ABHD1,S3_singleTM,90.73,2,509.6,TYR,9.24,20.34,95.19,0.5236,0.517,1.0,0.63,0.6329,medium,0.0,True,0.0,0.443
+Q96T83,SLC9A7,Sodium/hydrogen exchanger 7,S4_multiTM,67.14,3,408.4,SER,8.94,103.97,31.2,0.5509,1.0,0.0,0.49,0.5663,medium,0.0,False,0.0,0.3964
+Q99732,LITAF,Lipopolysaccharide-induced tumor necrosis factor-alpha factor,S2_cancer_nonTM,69.58,1,1339.9,THR,4.15,93.05,87.25,0.9864,1.0,0.5,0.6,0.8352,high,0.0,False,0.0,0.5847
+Q99961,SH3GL1,Endophilin-A2,S2_cancer_nonTM,83.89,1,1917.0,SER,9.9,71.28,92.38,0.4636,1.0,1.0,0.49,0.7358,high,0.0,False,0.0,0.515
+Q9BRK0,REEP2,Receptor expression-enhancing protein 2,S4_multiTM,64.52,2,479.2,TYR,4.76,67.91,79.69,0.9309,1.0,0.5,0.9,0.8608,high,76.2,True,0.0436,0.6138
+Q9BRQ8,AIFM2,Ferroptosis suppressor protein 1,S3_singleTM,95.56,1,2376.0,TYR,9.21,88.98,91.56,0.5264,1.0,1.0,0.63,0.7787,high,0.0,False,0.0,0.5451
+Q9BSK0,MARVELD1,MARVEL domain-containing protein 1,S4_multiTM,85.26,0,,,,,,0.0,0.0,0.0,0.0,0.0,low,0.0,False,0.0,0.0
+Q9BUH8,BEGAIN,Brain-enriched guanylate kinase-associated protein,S5_peripheral,55.9,2,867.4,CYS,8.27,127.71,42.53,0.6118,1.0,0.0,0.7,0.6191,medium,5.9,False,0.0034,0.434
+Q9BZE9,ASPSCR1,Tether containing UBX domain for GLUT4,S2_cancer_nonTM,71.21,2,243.0,LYS,5.46,190.78,42.56,0.8673,1.0,0.0,0.5,0.6785,medium,0.0,False,0.0,0.475
+Q9BZQ4,NMNAT2,Nicotinamide/nicotinic acid mononucleotide adenylyltransferase 2,S5_peripheral,79.68,3,216.0,SER,5.97,32.67,98.12,0.8209,1.0,1.0,0.7,0.8923,high,0.0,False,0.0,0.6246
+Q9GZV5,WWTR1,WW domain-containing transcription regulator protein 1,S2_cancer_nonTM,59.14,3,202.5,THR,2.24,140.01,50.38,1.0,1.0,0.0,0.6,0.74,high,0.0,True,0.0,0.518
+Q9GZY4,COA1,Cytochrome c oxidase assembly factor 1 homolog,S3_singleTM,88.21,0,,,,,,0.0,0.0,0.0,0.0,0.0,low,0.0,True,0.0,0.0
+Q9H0U3,MAGT1,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit MAGT1,S1_cancer_TM,85.86,2,425.2,THR,2.63,55.52,91.62,1.0,1.0,1.0,0.6,0.94,high,0.0,True,0.0,0.658
+Q9H2S1,KCNN2,Small conductance calcium-activated potassium channel protein 2,S4_multiTM,76.48,1,11711.2,SER,6.15,22.9,84.44,0.8045,0.645,0.5,0.49,0.6486,medium,37.2,True,0.0213,0.4582
+Q9H339,OR51B5,Olfactory receptor 51B5,S4_multiTM,89.57,2,361.1,TYR,8.58,39.12,92.38,0.5836,1.0,1.0,0.63,0.7988,high,0.0,False,0.0,0.5591
+Q9H4D0,CLSTN2,Calsyntenin-2,S3_singleTM,78.94,3,1788.8,CYS,4.89,64.44,78.38,0.9191,1.0,0.5,1.0,0.8717,high,23.9,True,0.0137,0.6138
+Q9HBX8,LGR6,Leucine-rich repeat-containing G protein-coupled receptor 6,S1_cancer_TM,77.38,3,1856.2,TYR,6.13,56.11,96.12,0.8064,1.0,1.0,0.63,0.8767,high,27.1,True,0.0155,0.6178
+Q9HCC8,GDPD2,Glycerophosphodiester phosphodiesterase 3,S4_multiTM,90.39,3,644.6,LYS,4.41,57.92,94.88,0.9627,1.0,1.0,0.5,0.912,high,18.4,True,0.0105,0.6413
+Q9HD42,CHMP1A,Charged multivesicular body protein 1a,S5_peripheral,77.91,1,2774.2,SER,5.56,70.17,88.62,0.8582,1.0,0.5,0.7,0.8054,high,0.0,False,0.0,0.5638
+Q9NP84,TNFRSF12A,Tumor necrosis factor receptor superfamily member 12A,S1_cancer_TM,73.22,3,222.8,SER,8.52,58.97,90.56,0.5891,1.0,1.0,0.49,0.7797,high,0.0,True,0.0,0.5458
+Q9NP99,TREM1,Triggering receptor expressed on myeloid cells 1,S3_singleTM,71.59,3,921.4,LYS,4.36,141.17,69.81,0.9673,1.0,0.0,0.5,0.7135,high,59.5,True,0.0341,0.5068
+Q9NPC4,A4GALT,Lactosylceramide 4-alpha-galactosyltransferase,S3_singleTM,89.26,1,2568.4,TYR,5.24,69.4,95.31,0.8873,1.0,1.0,0.9,0.9455,high,0.0,False,0.0,0.6619
+Q9NPF0,CD320,CD320 antigen,S3_singleTM,63.82,3,580.5,THR,8.88,82.93,82.19,0.5564,1.0,0.5,0.42,0.6577,medium,0.0,False,0.0,0.4604
+Q9NQ90,ANO2,Anoctamin-2,S4_multiTM,73.63,2,202.5,LYS,4.69,214.37,37.34,0.9373,1.0,0.0,0.5,0.703,high,8.7,False,0.005,0.4932
+Q9NXI6,RNF186,E3 ubiquitin-protein ligase RNF186,S4_multiTM,68.13,1,3074.6,TYR,7.11,14.83,88.81,0.7173,0.2415,0.5,0.63,0.518,medium,29.7,True,0.017,0.3652
+Q9NY59,SMPD3,Sphingomyelin phosphodiesterase 3,S5_peripheral,74.97,1,17465.6,LYS,7.14,107.56,98.19,0.7145,1.0,1.0,0.35,0.8026,high,0.0,False,0.0,0.5618
+Q9NYA1,SPHK1,Sphingosine kinase 1,S5_peripheral,91.14,1,1596.4,TYR,4.69,46.52,98.56,0.9373,1.0,1.0,0.9,0.963,high,0.0,False,0.0,0.6741
+Q9NYW0,TAS2R10,Taste receptor type 2 member 10,S4_multiTM,87.19,2,546.8,TYR,5.79,45.52,92.75,0.8373,1.0,1.0,0.9,0.928,high,0.0,False,0.0,0.6496
+Q9NZP6,NPAP1,Nuclear pore-associated protein 1,S5_peripheral,36.57,3,2804.6,LYS,7.23,207.5,35.44,0.7064,1.0,0.0,0.35,0.5997,medium,0.0,False,0.0,0.4198
+Q9NZQ3,NCKIPSD,NCK-interacting protein with SH3 domain,S2_cancer_nonTM,75.22,3,253.1,SER,1.42,42.77,94.94,1.0,1.0,1.0,0.7,0.955,high,0.0,False,0.0,0.6685
+Q9P126,CLEC1B,C-type lectin domain family 1 member B,S3_singleTM,88.18,1,232.9,TYR,3.77,70.57,93.62,1.0,1.0,1.0,0.9,0.985,high,0.0,False,0.0,0.6895
+Q9P2D0,IBTK,Inhibitor of Bruton tyrosine kinase,S5_peripheral,70.71,2,718.9,TYR,6.31,176.16,42.47,0.79,1.0,0.0,0.63,0.671,medium,0.0,False,0.0,0.4697
+Q9UBN6,TNFRSF10D,Tumor necrosis factor receptor superfamily member 10D,S1_cancer_TM,60.96,2,2156.6,THR,4.81,113.6,94.69,0.9264,1.0,1.0,0.6,0.9142,high,0.0,False,0.0,0.64
+Q9UEF7,KL,Klotho,S1_cancer_TM,89.09,1,10148.6,TYR,7.7,49.4,94.12,0.6636,1.0,1.0,0.63,0.8268,high,28.3,True,0.0162,0.5828
+Q9UHY1,NRBP1,Nuclear receptor-binding protein,S5_peripheral,75.23,2,276.8,CYS,3.95,47.5,88.0,1.0,1.0,0.5,1.0,0.9,high,0.0,False,0.0,0.63
+Q9UIR0,BTNL2,Butyrophilin-like protein 2,S3_singleTM,85.86,1,415.1,TYR,5.01,40.18,87.25,0.9082,1.0,0.5,0.9,0.8529,high,,False,,
+Q9UJM3,ERRFI1,ERBB receptor feedback inhibitor 1,S2_cancer_nonTM,56.55,3,259.9,TYR,5.75,207.91,53.56,0.8409,1.0,0.0,0.9,0.7293,high,0.0,False,0.0,0.5105
+Q9UL54,TAOK2,Serine/threonine-protein kinase TAO2,S4_multiTM,66.4,1,3594.4,,,,,0.0,0.0,0.0,0.0,0.0,low,0.0,False,0.0,0.0
+Q9UN73,PCDHA6,Protocadherin alpha-6,S3_singleTM,73.74,3,1761.8,SER,9.58,77.01,69.94,0.4927,1.0,0.0,0.49,0.546,medium,0.0,False,0.0,0.3822
+Q9UQ26,RIMS2,Regulating synaptic membrane exocytosis protein 2,S5_peripheral,54.51,3,907.9,THR,3.52,102.13,35.22,1.0,1.0,0.0,0.6,0.74,high,0.0,True,0.0,0.518
+Q9UQ49,NEU3,Sialidase-3,S5_peripheral,86.83,3,216.0,SER,5.96,96.2,33.53,0.8218,1.0,0.0,0.7,0.6926,medium,0.0,False,0.0,0.4848
+Q9Y250,LZTS1,Leucine zipper putative tumor suppressor 1,S2_cancer_nonTM,68.14,1,1495.1,CYS,5.6,74.29,97.69,0.8545,1.0,1.0,1.0,0.9491,high,99.3,True,0.0569,0.6806
+Q9Y275,TNFSF13B,Tumor necrosis factor ligand superfamily member 13B,S1_cancer_TM,78.36,2,317.2,TYR,9.1,72.56,98.12,0.5364,1.0,1.0,0.63,0.7822,high,0.0,False,0.0,0.5476
+Q9Y2G0,EFR3B,Protein EFR3 homolog B,S5_peripheral,81.77,2,1417.5,SER,5.67,34.25,88.81,0.8482,1.0,0.5,0.7,0.8019,high,10.9,True,0.0062,0.5628
+Q9Y2V7,COG6,Conserved oligomeric Golgi complex subunit 6,S5_peripheral,85.95,2,229.5,SER,7.89,37.74,93.0,0.6464,1.0,1.0,0.49,0.7997,high,0.0,False,0.0,0.5598
+Q9Y2X7,GIT1,ARF GTPase-activating protein GIT1,S5_peripheral,74.2,3,391.5,TYR,4.78,205.31,39.12,0.9291,1.0,0.0,0.9,0.7602,high,0.0,False,0.0,0.5321
+Q9Y3M8,STARD13,StAR-related lipid transfer protein 13,S2_cancer_nonTM,65.06,3,293.6,TYR,8.25,47.67,98.25,0.6136,1.0,1.0,0.63,0.8093,high,0.0,False,0.0,0.5665
+Q9Y5U5,TNFRSF18,Tumor necrosis factor receptor superfamily member 18,S1_cancer_TM,74.4,2,745.9,CYS,4.75,53.93,74.62,0.9318,1.0,0.5,1.0,0.8761,high,0.0,False,0.0,0.6133
+Q9Y5X3,SNX5,Sorting nexin-5,S5_peripheral,87.03,3,212.6,LYS,3.43,115.2,91.81,1.0,1.0,1.0,0.5,0.925,high,0.0,True,0.0,0.6475
+Q9Y5Y5,PEX16,Peroxisomal membrane protein PEX16,S4_multiTM,82.96,3,344.2,LYS,3.16,161.9,85.12,1.0,1.0,0.5,0.5,0.825,high,0.0,False,0.0,0.5775
+Q9Y5Y6,ST14,Suppressor of tumorigenicity 14 protein,S1_cancer_TM,80.85,1,604.1,TYR,5.0,28.68,71.81,0.9091,0.934,0.5,0.9,0.8334,high,0.0,False,0.0,0.5834
+Q9Y644,RFNG,"Beta-1,3-N-acetylglucosaminyltransferase radical fringe",S3_singleTM,87.41,3,283.5,TYR,8.3,41.56,96.75,0.6091,1.0,1.0,0.63,0.8077,high,0.0,False,0.0,0.5654
+Q9Y694,SLC22A7,Solute carrier family 22 member 7,S4_multiTM,85.03,2,2183.6,SER,5.39,32.5,84.25,0.8736,1.0,0.5,0.7,0.8108,high,164.0,True,0.0939,0.5904
+Q9Y6I8,PXMP4,Peroxisomal membrane protein 4,S4_multiTM,91.82,1,2025.0,TYR,1.51,121.06,95.38,1.0,1.0,1.0,0.9,0.985,high,0.0,False,0.0,0.6895
+Q9Y6M5,SLC30A1,Proton-coupled zinc antiporter SLC30A1,S4_multiTM,67.4,2,1194.8,SER,5.83,30.61,93.38,0.8336,1.0,1.0,0.7,0.8968,high,0.0,False,0.0,0.6277
+Q9Y6M9,NDUFB9,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 9,S5_peripheral,95.74,1,536.6,TYR,2.91,117.63,98.25,1.0,1.0,1.0,0.9,0.985,high,0.0,False,0.0,0.6895
