@@ -1,0 +1,221 @@
+uniprot_id,gene,n_tm,topology_class,best_nuc_resnum,best_nuc_topology,rationale
+A0A075B6S6,IGKV2D-30,0,EXTRACELLULAR_FULL,,FULLY_EXTRACELLULAR,No TM helix; Secreted
+A0A087WVF3,TBC1D3D,0,INTRACELLULAR,138,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cell membrane"
+A0A0B4J263,TRAV39,0,INTRACELLULAR,105,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cell membrane"
+A0A1B0GV85,REELD1,1,EXTRACELLULAR_POCKET,372,EXTRACELLULAR,Best pocket nucleophile at residue 372 lies in a UniProt-annotated Extracellular topological domain
+A0A578,TRBV5-1,0,INTRACELLULAR,29,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cell membrane"
+A0A5B9,TRBC2,1,UNKNOWN,,NO_POCKET_NUCLEOPHILE,No pocket nucleophile identified (BTR-Score 0); trigger residue not localizable
+A1A5C7,SLC22A23,10,UNKNOWN,631,NO_TOPOLOGY_ANNOTATION,10 TM helix(es) but no Topological-domain annotation in UniProt
+A6NJY1,SLC9B1P1,7,UNKNOWN,23,NO_TOPOLOGY_ANNOTATION,7 TM helix(es) but no Topological-domain annotation in UniProt
+A6NM10,AQP12B,6,INTERMEDIATE,196,NOT_IN_ANNOTATED_DOMAIN,"Residue 196 not covered by any annotated topological domain (6 TM, 9 topo domains)"
+A6NMU1,OR52A4P,7,EXTRACELLULAR_POCKET,180,EXTRACELLULAR,Best pocket nucleophile at residue 180 lies in a UniProt-annotated Extracellular topological domain
+O00501,CLDN5,4,EXTRACELLULAR_POCKET,67,EXTRACELLULAR,Best pocket nucleophile at residue 67 lies in a UniProt-annotated Extracellular topological domain
+O14493,CLDN4,4,UNKNOWN,,NO_POCKET_NUCLEOPHILE,No pocket nucleophile identified (BTR-Score 0); trigger residue not localizable
+O14788,TNFSF11,1,EXTRACELLULAR_POCKET,215,EXTRACELLULAR,Best pocket nucleophile at residue 215 lies in a UniProt-annotated Extracellular topological domain
+O14920,IKBKB,0,INTRACELLULAR,381,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; nucleus; membrane raft"
+O15244,SLC22A2,12,INTERMEDIATE,460,TRANSMEMBRANE,Best pocket nucleophile at residue 460 lies inside a TM helix
+O15403,SLC16A6,12,INTERMEDIATE,39,TRANSMEMBRANE,Best pocket nucleophile at residue 39 lies inside a TM helix
+O15554,KCNN4,6,UNKNOWN,161,NO_TOPOLOGY_ANNOTATION,6 TM helix(es) but no Topological-domain annotation in UniProt
+O42043,ERVK-18,1,UNKNOWN,161,NO_TOPOLOGY_ANNOTATION,1 TM helix(es) but no Topological-domain annotation in UniProt
+O43463,SUV39H1,0,INTRACELLULAR,297,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: nucleus; chromosome; nucleus lamina; nucleus, nucleoplasm; chromosome, centromere; cytoplasmic vesic"
+O43570,CA12,1,EXTRACELLULAR_POCKET,47,EXTRACELLULAR,Best pocket nucleophile at residue 47 lies in a UniProt-annotated Extracellular topological domain
+O60637,TSPAN3,4,EXTRACELLULAR_POCKET,126,EXTRACELLULAR,Best pocket nucleophile at residue 126 lies in a UniProt-annotated Extracellular topological domain
+O60831,PRAF2,4,INTRACELLULAR_POCKET,155,CYTOPLASMIC,Best pocket nucleophile at residue 155 lies in a Cytoplasmic topological domain
+O75030,MITF,0,INTRACELLULAR,516,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: nucleus; cytoplasm; lysosome membrane"
+O75038,PLCH2,0,INTRACELLULAR,586,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; cell membrane"
+O75477,ERLIN1,1,INTERMEDIATE,298,LUMENAL,Best pocket nucleophile at residue 298 lies in a lumenal domain (organellar lumen; not directly extracellular)
+O75747,PIK3C2G,0,INTRACELLULAR,543,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: membrane"
+O75964,ATP5MG,0,INTRACELLULAR,33,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: mitochondrion; mitochondrion inner membrane"
+O76082,SLC22A5,12,EXTRACELLULAR_POCKET,45,EXTRACELLULAR,Best pocket nucleophile at residue 45 lies in a UniProt-annotated Extracellular topological domain
+O94850,DDN,0,INTRACELLULAR,508,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cell projection, dendritic spine membrane; cytoplasm; endoplasmic reticulum membrane; perikaryon; nu"
+O94898,LRIG2,1,EXTRACELLULAR_POCKET,769,EXTRACELLULAR,Best pocket nucleophile at residue 769 lies in a UniProt-annotated Extracellular topological domain
+O95206,PCDH8,1,UNKNOWN,,NO_POCKET_NUCLEOPHILE,No pocket nucleophile identified (BTR-Score 0); trigger residue not localizable
+O95487,SEC24B,0,INTRACELLULAR,,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasmic vesicle, copii-coated vesicle membrane; endoplasmic reticulum membrane; cytoplasm, cytos"
+O95672,ECEL1,1,INTERMEDIATE,742,LUMENAL,Best pocket nucleophile at residue 742 lies in a lumenal domain (organellar lumen; not directly extracellular)
+O95980,RECK,0,EXTRACELLULAR_FULL,838,FULLY_EXTRACELLULAR,No TM helix; GPI-anchor lipidation
+P00395,MT-CO1,12,INTERMEDIATE,260,TRANSMEMBRANE,Best pocket nucleophile at residue 260 lies inside a TM helix
+P00533,EGFR,1,EXTRACELLULAR_POCKET,161,EXTRACELLULAR,Best pocket nucleophile at residue 161 lies in a UniProt-annotated Extracellular topological domain
+P01112,HRAS,0,INTRACELLULAR,,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cell membrane; golgi apparatus; golgi apparatus membrane; nucleus; cytoplasm; cytoplasm, perinuclear"
+P01737,TRAV8-4,0,INTRACELLULAR,108,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cell membrane"
+P01833,PIGR,1,EXTRACELLULAR_POCKET,471,EXTRACELLULAR,Best pocket nucleophile at residue 471 lies in a UniProt-annotated Extracellular topological domain
+P01857,IGHG1,1,EXTRACELLULAR_POCKET,217,EXTRACELLULAR,Best pocket nucleophile at residue 217 lies in a UniProt-annotated Extracellular topological domain
+P04626,ERBB2,1,EXTRACELLULAR_POCKET,208,EXTRACELLULAR,Best pocket nucleophile at residue 208 lies in a UniProt-annotated Extracellular topological domain
+P04920,SLC4A2,10,INTRACELLULAR_POCKET,97,CYTOPLASMIC,Best pocket nucleophile at residue 97 lies in a Cytoplasmic topological domain
+P06241,FYN,0,INTRACELLULAR,355,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; nucleus; cell membrane; perikaryon"
+P07332,FES,0,INTRACELLULAR,646,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm, cytosol; cytoplasm, cytoskeleton; cell membrane; cytoplasmic vesicle; golgi apparatus; ce"
+P07949,RET,1,INTERMEDIATE,649,TRANSMEMBRANE,Best pocket nucleophile at residue 649 lies inside a TM helix
+P08247,SYP,4,INTERMEDIATE,117,TRANSMEMBRANE,Best pocket nucleophile at residue 117 lies inside a TM helix
+P09038,FGF2,0,EXTRACELLULAR_FULL,215,FULLY_EXTRACELLULAR,No TM helix; Secreted
+P09769,FGR,0,INTRACELLULAR,372,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cell membrane; cell membrane; cell projection, ruffle membrane; cytoplasm, cytosol; cytoplasm, cytos"
+P10415,BCL2,1,UNKNOWN,202,NO_TOPOLOGY_ANNOTATION,1 TM helix(es) but no Topological-domain annotation in UniProt
+P11142,HSPA8,0,INTRACELLULAR,611,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; melanosome; nucleus, nucleolus; cell membrane; lysosome membrane"
+P11802,CDK4,0,INTRACELLULAR,277,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; nucleus; nucleus membrane"
+P14770,GP9,1,EXTRACELLULAR_POCKET,95,EXTRACELLULAR,Best pocket nucleophile at residue 95 lies in a UniProt-annotated Extracellular topological domain
+P15941,MUC1,1,INTERMEDIATE,2,NOT_IN_ANNOTATED_DOMAIN,"Residue 2 not covered by any annotated topological domain (1 TM, 2 topo domains)"
+P16234,PDGFRA,1,EXTRACELLULAR_POCKET,273,EXTRACELLULAR,Best pocket nucleophile at residue 273 lies in a UniProt-annotated Extracellular topological domain
+P16422,EPCAM,1,EXTRACELLULAR_POCKET,102,EXTRACELLULAR,Best pocket nucleophile at residue 102 lies in a UniProt-annotated Extracellular topological domain
+P16591,FER,0,INTRACELLULAR,583,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; cytoplasm, cytoskeleton; cell membrane; cell projection; cell junction; membrane; nucleus"
+P16870,CPE,0,EXTRACELLULAR_FULL,357,FULLY_EXTRACELLULAR,No TM helix; Secreted
+P17252,PRKCA,0,INTRACELLULAR,604,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; cell membrane; mitochondrion membrane; nucleus"
+P17861,XBP1,1,INTRACELLULAR_POCKET,79,CYTOPLASMIC,Best pocket nucleophile at residue 79 lies in a Cytoplasmic topological domain
+P19474,TRIM21,0,INTRACELLULAR,431,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; cytoplasmic vesicle, autophagosome; nucleus; cytoplasm, p-body; cytoplasm, stress granule"
+P21802,FGFR2,1,INTRACELLULAR_POCKET,790,CYTOPLASMIC,Best pocket nucleophile at residue 790 lies in a Cytoplasmic topological domain
+P22794,EVI2A,1,EXTRACELLULAR_POCKET,122,EXTRACELLULAR,Best pocket nucleophile at residue 122 lies in a UniProt-annotated Extracellular topological domain
+P23510,TNFSF4,1,EXTRACELLULAR_POCKET,145,EXTRACELLULAR,Best pocket nucleophile at residue 145 lies in a UniProt-annotated Extracellular topological domain
+P29033,GJB2,4,INTRACELLULAR_POCKET,125,CYTOPLASMIC,Best pocket nucleophile at residue 125 lies in a Cytoplasmic topological domain
+P29320,EPHA3,1,UNKNOWN,,NO_POCKET_NUCLEOPHILE,No pocket nucleophile identified (BTR-Score 0); trigger residue not localizable
+P30414,NKTR,0,INTRACELLULAR,981,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cell membrane"
+P30988,CALCR,7,INTERMEDIATE,149,TRANSMEMBRANE,Best pocket nucleophile at residue 149 lies inside a TM helix
+P40337,VHL,0,INTRACELLULAR,156,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; cell membrane; endoplasmic reticulum; nucleus; cytoplasm; nucleus"
+P41273,TNFSF9,1,EXTRACELLULAR_POCKET,241,EXTRACELLULAR,Best pocket nucleophile at residue 241 lies in a UniProt-annotated Extracellular topological domain
+P41743,PRKCI,0,INTRACELLULAR,401,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; membrane; endosome; nucleus"
+P43489,TNFRSF4,1,EXTRACELLULAR_POCKET,119,EXTRACELLULAR,Best pocket nucleophile at residue 119 lies in a UniProt-annotated Extracellular topological domain
+P50391,NPY4R,7,INTRACELLULAR_POCKET,238,CYTOPLASMIC,Best pocket nucleophile at residue 238 lies in a Cytoplasmic topological domain
+P50607,TUB,0,EXTRACELLULAR_FULL,400,FULLY_EXTRACELLULAR,No TM helix; Secreted
+P54826,GAS1,0,EXTRACELLULAR_FULL,65,FULLY_EXTRACELLULAR,No TM helix; GPI-anchor lipidation
+P54855,UGT2B15,1,UNKNOWN,489,NO_TOPOLOGY_ANNOTATION,1 TM helix(es) but no Topological-domain annotation in UniProt
+P55291,CDH15,1,EXTRACELLULAR_POCKET,506,EXTRACELLULAR,Best pocket nucleophile at residue 506 lies in a UniProt-annotated Extracellular topological domain
+P56373,P2RX3,2,INTERMEDIATE,37,TRANSMEMBRANE,Best pocket nucleophile at residue 37 lies inside a TM helix
+P56559,ARL4C,0,INTRACELLULAR,176,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cell projection, filopodium; cell membrane; cytoplasm"
+P57738,TCTA,2,UNKNOWN,,NO_POCKET_NUCLEOPHILE,No pocket nucleophile identified (BTR-Score 0); trigger residue not localizable
+P60033,CD81,4,EXTRACELLULAR_POCKET,59,EXTRACELLULAR,Best pocket nucleophile at residue 59 lies in a UniProt-annotated Extracellular topological domain
+P61006,RAB8A,0,INTRACELLULAR,23,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cell membrane; golgi apparatus; endosome membrane; recycling endosome membrane; cell projection, cil"
+P61764,STXBP1,0,INTRACELLULAR,554,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm, cytosol; membrane"
+P62070,RRAS2,0,INTRACELLULAR,115,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cell membrane; golgi apparatus membrane"
+P62166,NCS1,0,INTRACELLULAR,186,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: golgi apparatus; postsynaptic density; cytoplasm, perinuclear region; cytoplasm; cell membrane; memb"
+P78324,SIRPA,1,EXTRACELLULAR_POCKET,207,EXTRACELLULAR,Best pocket nucleophile at residue 207 lies in a UniProt-annotated Extracellular topological domain
+P78383,SLC35B1,10,INTERMEDIATE,110,TRANSMEMBRANE,Best pocket nucleophile at residue 110 lies inside a TM helix
+P81605,DCD,1,UNKNOWN,5,NO_TOPOLOGY_ANNOTATION,1 TM helix(es) but no Topological-domain annotation in UniProt
+P98153,DGCR2,1,EXTRACELLULAR_POCKET,122,EXTRACELLULAR,Best pocket nucleophile at residue 122 lies in a UniProt-annotated Extracellular topological domain
+Q00535,CDK5,0,INTRACELLULAR,15,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; nucleus; cell membrane; perikaryon; cell projection, lamellipodium; cell projection, grow"
+Q02846,GUCY2D,1,EXTRACELLULAR_POCKET,116,EXTRACELLULAR,Best pocket nucleophile at residue 116 lies in a UniProt-annotated Extracellular topological domain
+Q02978,SLC25A11,6,UNKNOWN,102,NO_TOPOLOGY_ANNOTATION,6 TM helix(es) but no Topological-domain annotation in UniProt
+Q04759,PRKCQ,0,INTRACELLULAR,497,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; cell membrane"
+Q04912,MST1R,1,INTRACELLULAR_POCKET,998,CYTOPLASMIC,Best pocket nucleophile at residue 998 lies in a Cytoplasmic topological domain
+Q05655,PRKCD,0,INTRACELLULAR,646,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; cytoplasm, perinuclear region; nucleus; cell membrane; mitochondrion; endomembrane system"
+Q08174,PCDH1,1,EXTRACELLULAR_POCKET,832,EXTRACELLULAR,Best pocket nucleophile at residue 832 lies in a UniProt-annotated Extracellular topological domain
+Q12772,SREBF2,2,INTRACELLULAR_POCKET,1121,CYTOPLASMIC,Best pocket nucleophile at residue 1121 lies in a Cytoplasmic topological domain
+Q12797,ASPH,1,INTERMEDIATE,323,LUMENAL,Best pocket nucleophile at residue 323 lies in a lumenal domain (organellar lumen; not directly extracellular)
+Q13255,GRM1,7,INTERMEDIATE,770,TRANSMEMBRANE,Best pocket nucleophile at residue 770 lies inside a TM helix
+Q13410,BTN1A1,1,EXTRACELLULAR_POCKET,170,EXTRACELLULAR,Best pocket nucleophile at residue 170 lies in a UniProt-annotated Extracellular topological domain
+Q13477,MADCAM1,1,EXTRACELLULAR_POCKET,57,EXTRACELLULAR,Best pocket nucleophile at residue 57 lies in a UniProt-annotated Extracellular topological domain
+Q13492,PICALM,0,INTRACELLULAR,107,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cell membrane; membrane, clathrin-coated pit; golgi apparatus; cytoplasmic vesicle, clathrin-coated "
+Q14126,DSG2,1,INTRACELLULAR_POCKET,680,CYTOPLASMIC,Best pocket nucleophile at residue 680 lies in a Cytoplasmic topological domain
+Q14162,SCARF1,1,INTRACELLULAR_POCKET,730,CYTOPLASMIC,Best pocket nucleophile at residue 730 lies in a Cytoplasmic topological domain
+Q14435,GALNT3,1,INTERMEDIATE,447,LUMENAL,Best pocket nucleophile at residue 447 lies in a lumenal domain (organellar lumen; not directly extracellular)
+Q14626,IL11RA,1,EXTRACELLULAR_POCKET,242,EXTRACELLULAR,Best pocket nucleophile at residue 242 lies in a UniProt-annotated Extracellular topological domain
+Q14656,TMEM187,6,UNKNOWN,208,NO_TOPOLOGY_ANNOTATION,6 TM helix(es) but no Topological-domain annotation in UniProt
+Q15388,TOMM20,1,INTRACELLULAR_POCKET,55,CYTOPLASMIC,Best pocket nucleophile at residue 55 lies in a Cytoplasmic topological domain
+Q15619,OR1C1,7,INTRACELLULAR_POCKET,132,CYTOPLASMIC,Best pocket nucleophile at residue 132 lies in a Cytoplasmic topological domain
+Q15743,GPR68,7,INTRACELLULAR_POCKET,304,CYTOPLASMIC,Best pocket nucleophile at residue 304 lies in a Cytoplasmic topological domain
+Q16394,EXT1,1,INTERMEDIATE,714,LUMENAL,Best pocket nucleophile at residue 714 lies in a lumenal domain (organellar lumen; not directly extracellular)
+Q16512,PKN1,0,INTRACELLULAR,567,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; nucleus; endosome; cell membrane; cleavage furrow; midbody"
+Q2M3G0,ABCB5,11,UNKNOWN,368,NO_TOPOLOGY_ANNOTATION,11 TM helix(es) but no Topological-domain annotation in UniProt
+Q2NKQ1,SGSM1,0,INTRACELLULAR,392,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: golgi apparatus, trans-golgi network; cytoplasmic vesicle membrane; cytoplasm"
+Q3KNS1,PTCHD3,13,UNKNOWN,638,NO_TOPOLOGY_ANNOTATION,13 TM helix(es) but no Topological-domain annotation in UniProt
+Q53GL0,PLEKHO1,0,INTRACELLULAR,206,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cell membrane; nucleus; cytoplasm"
+Q58HT5,AWAT1,2,UNKNOWN,317,NO_TOPOLOGY_ANNOTATION,2 TM helix(es) but no Topological-domain annotation in UniProt
+Q5H943,CT83,1,INTERMEDIATE,20,TRANSMEMBRANE,Best pocket nucleophile at residue 20 lies inside a TM helix
+Q5NUL3,FFAR4,7,EXTRACELLULAR_POCKET,200,EXTRACELLULAR,Best pocket nucleophile at residue 200 lies in a UniProt-annotated Extracellular topological domain
+Q5SQI0,ATAT1,0,INTRACELLULAR,142,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; membrane, clathrin-coated pit; cell junction, focal adhesion; cell projection, axon; cyto"
+Q63HM2,PCNX4,15,UNKNOWN,539,NO_TOPOLOGY_ANNOTATION,15 TM helix(es) but no Topological-domain annotation in UniProt
+Q68CQ7,GLT8D1,1,INTERMEDIATE,334,LUMENAL,Best pocket nucleophile at residue 334 lies in a lumenal domain (organellar lumen; not directly extracellular)
+Q6E213,AWAT2,3,UNKNOWN,256,NO_TOPOLOGY_ANNOTATION,3 TM helix(es) but no Topological-domain annotation in UniProt
+Q6P9G4,TMEM154,1,INTRACELLULAR_POCKET,155,CYTOPLASMIC,Best pocket nucleophile at residue 155 lies in a Cytoplasmic topological domain
+Q6PCB0,VWA1,0,EXTRACELLULAR_FULL,183,FULLY_EXTRACELLULAR,"No TM helix; Secreted; extracellular subcellular location (secreted, extracellular space, extracellular matrix, basement membrane)"
+Q6PIL6,KCNIP4,0,INTRACELLULAR,24,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cell membrane; cytoplasm; peroxisome; endoplasmic reticulum"
+Q6QAJ8,TMEM220,5,UNKNOWN,37,NO_TOPOLOGY_ANNOTATION,5 TM helix(es) but no Topological-domain annotation in UniProt
+Q6UXK5,LRRN1,1,EXTRACELLULAR_POCKET,513,EXTRACELLULAR,Best pocket nucleophile at residue 513 lies in a UniProt-annotated Extracellular topological domain
+Q6ZMD2,SPNS3,12,UNKNOWN,403,NO_TOPOLOGY_ANNOTATION,12 TM helix(es) but no Topological-domain annotation in UniProt
+Q6ZRH7,CATSPERG,1,EXTRACELLULAR_POCKET,298,EXTRACELLULAR,Best pocket nucleophile at residue 298 lies in a UniProt-annotated Extracellular topological domain
+Q6ZVD7,STOX1,0,INTRACELLULAR,551,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; nucleus; cytoplasm, cytoskeleton, microtubule organizing center, centrosome; nucleus; nuc"
+Q6ZWE6,PLEKHM3,0,INTRACELLULAR,166,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; golgi apparatus; cell membrane"
+Q6ZXV5,TMTC3,11,EXTRACELLULAR_POCKET,285,EXTRACELLULAR,Best pocket nucleophile at residue 285 lies in a UniProt-annotated Extracellular topological domain
+Q70SY1,CREB3L2,1,INTRACELLULAR_POCKET,369,CYTOPLASMIC,Best pocket nucleophile at residue 369 lies in a Cytoplasmic topological domain
+Q7LC44,ARC,0,EXTRACELLULAR_FULL,334,FULLY_EXTRACELLULAR,No TM helix; extracellular subcellular location (extracellular vesicle membrane; postsynaptic cell membrane; synapse; postsynapti)
+Q86UF2,CTAGE6,1,UNKNOWN,399,NO_TOPOLOGY_ANNOTATION,1 TM helix(es) but no Topological-domain annotation in UniProt
+Q8IUH5,ZDHHC17,6,INTRACELLULAR_POCKET,614,CYTOPLASMIC,Best pocket nucleophile at residue 614 lies in a Cytoplasmic topological domain
+Q8IUN9,CLEC10A,1,EXTRACELLULAR_POCKET,181,EXTRACELLULAR,Best pocket nucleophile at residue 181 lies in a UniProt-annotated Extracellular topological domain
+Q8IUW5,RELL1,1,INTRACELLULAR_POCKET,224,CYTOPLASMIC,Best pocket nucleophile at residue 224 lies in a Cytoplasmic topological domain
+Q8IVJ8,APRG1,1,UNKNOWN,83,NO_TOPOLOGY_ANNOTATION,1 TM helix(es) but no Topological-domain annotation in UniProt
+Q8IVU1,IGDCC3,1,UNKNOWN,262,NO_TOPOLOGY_ANNOTATION,1 TM helix(es) but no Topological-domain annotation in UniProt
+Q8IYU2,HACE1,0,INTRACELLULAR,97,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: golgi apparatus, golgi stack membrane; cytoplasm; endoplasmic reticulum"
+Q8IZV2,CMTM8,4,UNKNOWN,91,NO_TOPOLOGY_ANNOTATION,4 TM helix(es) but no Topological-domain annotation in UniProt
+Q8N565,MREG,0,EXTRACELLULAR_FULL,208,FULLY_EXTRACELLULAR,No TM helix; extracellular subcellular location (apical cell membrane; melanosome membrane; lysosome membrane; cytoplasmic vesicl)
+Q8N5S1,SLC25A41,6,UNKNOWN,117,NO_TOPOLOGY_ANNOTATION,6 TM helix(es) but no Topological-domain annotation in UniProt
+Q8N5V2,NGEF,0,INTRACELLULAR,518,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; membrane; cell projection, growth cone"
+Q8N653,LZTR1,0,INTRACELLULAR,119,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: endomembrane system; recycling endosome; golgi apparatus"
+Q8N9I5,FADS6,6,UNKNOWN,241,NO_TOPOLOGY_ANNOTATION,6 TM helix(es) but no Topological-domain annotation in UniProt
+Q8NBI6,XXYLT1,1,INTERMEDIATE,350,LUMENAL,Best pocket nucleophile at residue 350 lies in a lumenal domain (organellar lumen; not directly extracellular)
+Q8NG94,OR11H1,7,INTRACELLULAR_POCKET,147,CYTOPLASMIC,Best pocket nucleophile at residue 147 lies in a Cytoplasmic topological domain
+Q8NGD3,OR4K5,7,INTERMEDIATE,60,TRANSMEMBRANE,Best pocket nucleophile at residue 60 lies inside a TM helix
+Q8NGP3,OR5M9,7,EXTRACELLULAR_POCKET,165,EXTRACELLULAR,Best pocket nucleophile at residue 165 lies in a UniProt-annotated Extracellular topological domain
+Q8NI08,NCOA7,0,INTRACELLULAR,198,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: nucleus; cytoplasm; golgi apparatus, cis-golgi network membrane; golgi apparatus, trans-golgi networ"
+Q8TAX9,GSDMB,4,UNKNOWN,52,NO_TOPOLOGY_ANNOTATION,4 TM helix(es) but no Topological-domain annotation in UniProt
+Q8TCT6,SPPL3,9,INTRACELLULAR_POCKET,30,CYTOPLASMIC,Best pocket nucleophile at residue 30 lies in a Cytoplasmic topological domain
+Q8TDQ0,HAVCR2,1,INTRACELLULAR_POCKET,281,CYTOPLASMIC,Best pocket nucleophile at residue 281 lies in a Cytoplasmic topological domain
+Q8TDW4,ST7L,2,UNKNOWN,193,NO_TOPOLOGY_ANNOTATION,2 TM helix(es) but no Topological-domain annotation in UniProt
+Q8WY98,TMEM234,3,UNKNOWN,4,NO_TOPOLOGY_ANNOTATION,3 TM helix(es) but no Topological-domain annotation in UniProt
+Q92523,CPT1B,2,INTRACELLULAR_POCKET,644,CYTOPLASMIC,Best pocket nucleophile at residue 644 lies in a Cytoplasmic topological domain
+Q969V1,MCHR2,7,INTERMEDIATE,289,TRANSMEMBRANE,Best pocket nucleophile at residue 289 lies inside a TM helix
+Q96BI1,SLC67A1,10,UNKNOWN,262,NO_TOPOLOGY_ANNOTATION,10 TM helix(es) but no Topological-domain annotation in UniProt
+Q96JQ2,CLMN,1,UNKNOWN,,NO_POCKET_NUCLEOPHILE,No pocket nucleophile identified (BTR-Score 0); trigger residue not localizable
+Q96KR6,MIMS2,2,UNKNOWN,96,NO_TOPOLOGY_ANNOTATION,2 TM helix(es) but no Topological-domain annotation in UniProt
+Q96R08,OR5B12,7,INTERMEDIATE,238,TRANSMEMBRANE,Best pocket nucleophile at residue 238 lies inside a TM helix
+Q96RJ3,TNFRSF13C,1,EXTRACELLULAR_POCKET,7,EXTRACELLULAR,Best pocket nucleophile at residue 7 lies in a UniProt-annotated Extracellular topological domain
+Q96SE0,ABHD1,1,UNKNOWN,192,NO_TOPOLOGY_ANNOTATION,1 TM helix(es) but no Topological-domain annotation in UniProt
+Q96T83,SLC9A7,14,INTRACELLULAR_POCKET,573,CYTOPLASMIC,Best pocket nucleophile at residue 573 lies in a Cytoplasmic topological domain
+Q99732,LITAF,0,INTRACELLULAR,86,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; nucleus; lysosome membrane; early endosome membrane; late endosome membrane; endosome mem"
+Q99961,SH3GL1,0,INTRACELLULAR,352,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; early endosome membrane; cell projection, podosome"
+Q9BRK0,REEP2,2,UNKNOWN,41,NO_TOPOLOGY_ANNOTATION,2 TM helix(es) but no Topological-domain annotation in UniProt
+Q9BRQ8,AIFM2,1,UNKNOWN,296,NO_TOPOLOGY_ANNOTATION,1 TM helix(es) but no Topological-domain annotation in UniProt
+Q9BSK0,MARVELD1,4,UNKNOWN,,NO_POCKET_NUCLEOPHILE,No pocket nucleophile identified (BTR-Score 0); trigger residue not localizable
+Q9BUH8,BEGAIN,0,INTRACELLULAR,210,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; membrane"
+Q9BZE9,ASPSCR1,0,INTRACELLULAR,512,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: endomembrane system; endoplasmic reticulum-golgi intermediate compartment membrane; cytoplasm; nucle"
+Q9BZQ4,NMNAT2,0,INTRACELLULAR,77,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: golgi apparatus membrane; cytoplasmic vesicle membrane; cytoplasm; cell projection, axon"
+Q9GZV5,WWTR1,0,INTRACELLULAR,285,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: nucleus; cytoplasm; cell membrane; cell junction, tight junction"
+Q9GZY4,COA1,1,UNKNOWN,,NO_POCKET_NUCLEOPHILE,No pocket nucleophile identified (BTR-Score 0); trigger residue not localizable
+Q9H0U3,MAGT1,4,EXTRACELLULAR_POCKET,153,EXTRACELLULAR,Best pocket nucleophile at residue 153 lies in a UniProt-annotated Extracellular topological domain
+Q9H2S1,KCNN2,6,UNKNOWN,285,NO_TOPOLOGY_ANNOTATION,6 TM helix(es) but no Topological-domain annotation in UniProt
+Q9H339,OR51B5,7,INTRACELLULAR_POCKET,130,CYTOPLASMIC,Best pocket nucleophile at residue 130 lies in a Cytoplasmic topological domain
+Q9H4D0,CLSTN2,1,EXTRACELLULAR_POCKET,615,EXTRACELLULAR,Best pocket nucleophile at residue 615 lies in a UniProt-annotated Extracellular topological domain
+Q9HBX8,LGR6,7,EXTRACELLULAR_POCKET,70,EXTRACELLULAR,Best pocket nucleophile at residue 70 lies in a UniProt-annotated Extracellular topological domain
+Q9HCC8,GDPD2,6,EXTRACELLULAR_POCKET,452,EXTRACELLULAR,Best pocket nucleophile at residue 452 lies in a UniProt-annotated Extracellular topological domain
+Q9HD42,CHMP1A,0,INTRACELLULAR,67,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; endosome membrane; nucleus matrix"
+Q9NP84,TNFRSF12A,1,INTERMEDIATE,96,TRANSMEMBRANE,Best pocket nucleophile at residue 96 lies inside a TM helix
+Q9NP99,TREM1,1,INTERMEDIATE,217,TRANSMEMBRANE,Best pocket nucleophile at residue 217 lies inside a TM helix
+Q9NPC4,A4GALT,1,INTERMEDIATE,169,LUMENAL,Best pocket nucleophile at residue 169 lies in a lumenal domain (organellar lumen; not directly extracellular)
+Q9NPF0,CD320,1,EXTRACELLULAR_POCKET,71,EXTRACELLULAR,Best pocket nucleophile at residue 71 lies in a UniProt-annotated Extracellular topological domain
+Q9NQ90,ANO2,8,INTRACELLULAR_POCKET,133,CYTOPLASMIC,Best pocket nucleophile at residue 133 lies in a Cytoplasmic topological domain
+Q9NXI6,RNF186,2,UNKNOWN,47,NO_TOPOLOGY_ANNOTATION,2 TM helix(es) but no Topological-domain annotation in UniProt
+Q9NY59,SMPD3,0,INTRACELLULAR,152,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: golgi apparatus membrane; cell membrane"
+Q9NYA1,SPHK1,0,INTRACELLULAR,321,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; nucleus; cell membrane; endosome membrane; membrane, clathrin-coated pit; synapse"
+Q9NYW0,TAS2R10,7,INTERMEDIATE,106,TRANSMEMBRANE,Best pocket nucleophile at residue 106 lies inside a TM helix
+Q9NZP6,NPAP1,0,INTRACELLULAR,909,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: nucleus, nucleoplasm; nucleus inner membrane"
+Q9NZQ3,NCKIPSD,0,INTRACELLULAR,697,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: nucleus"
+Q9P126,CLEC1B,1,EXTRACELLULAR_POCKET,109,EXTRACELLULAR,Best pocket nucleophile at residue 109 lies in a UniProt-annotated Extracellular topological domain
+Q9P2D0,IBTK,0,INTRACELLULAR,686,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; membrane; nucleus"
+Q9UBN6,TNFRSF10D,1,EXTRACELLULAR_POCKET,157,EXTRACELLULAR,Best pocket nucleophile at residue 157 lies in a UniProt-annotated Extracellular topological domain
+Q9UEF7,KL,1,EXTRACELLULAR_POCKET,889,EXTRACELLULAR,Best pocket nucleophile at residue 889 lies in a UniProt-annotated Extracellular topological domain
+Q9UHY1,NRBP1,0,INTRACELLULAR,478,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm, cell cortex; endomembrane system; cell projection, lamellipodium"
+Q9UIR0,BTNL2,1,EXTRACELLULAR_POCKET,288,EXTRACELLULAR,Best pocket nucleophile at residue 288 lies in a UniProt-annotated Extracellular topological domain
+Q9UJM3,ERRFI1,0,INTRACELLULAR,298,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; cell membrane; nucleus"
+Q9UL54,TAOK2,5,UNKNOWN,,NO_POCKET_NUCLEOPHILE,No pocket nucleophile identified (BTR-Score 0); trigger residue not localizable
+Q9UN73,PCDHA6,1,EXTRACELLULAR_POCKET,578,EXTRACELLULAR,Best pocket nucleophile at residue 578 lies in a UniProt-annotated Extracellular topological domain
+Q9UQ26,RIMS2,0,INTRACELLULAR,446,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cell membrane; synapse; presynaptic cell membrane"
+Q9UQ49,NEU3,0,INTRACELLULAR,423,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cell membrane; membrane, caveola; early endosome membrane; recycling endosome membrane; lysosome mem"
+Q9Y250,LZTS1,0,INTRACELLULAR,450,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; cell membrane; cell projection, dendritic spine; postsynaptic density; synapse"
+Q9Y275,TNFSF13B,1,EXTRACELLULAR_POCKET,163,EXTRACELLULAR,Best pocket nucleophile at residue 163 lies in a UniProt-annotated Extracellular topological domain
+Q9Y2G0,EFR3B,0,INTRACELLULAR,227,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cell membrane; cytoplasm, cytosol"
+Q9Y2V7,COG6,0,INTRACELLULAR,321,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: golgi apparatus membrane"
+Q9Y2X7,GIT1,0,INTRACELLULAR,598,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; synapse; presynapse; postsynapse; postsynaptic density; cell junction, focal adhesion; ce"
+Q9Y3M8,STARD13,0,INTRACELLULAR,729,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: cytoplasm; membrane; mitochondrion membrane; lipid droplet"
+Q9Y5U5,TNFRSF18,1,INTERMEDIATE,14,NOT_IN_ANNOTATED_DOMAIN,"Residue 14 not covered by any annotated topological domain (1 TM, 2 topo domains)"
+Q9Y5X3,SNX5,0,INTRACELLULAR,367,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: endosome; early endosome; early endosome membrane; cell membrane; cytoplasmic vesicle membrane; cyto"
+Q9Y5Y5,PEX16,2,INTRACELLULAR_POCKET,132,CYTOPLASMIC,Best pocket nucleophile at residue 132 lies in a Cytoplasmic topological domain
+Q9Y5Y6,ST14,1,EXTRACELLULAR_POCKET,572,EXTRACELLULAR,Best pocket nucleophile at residue 572 lies in a UniProt-annotated Extracellular topological domain
+Q9Y644,RFNG,1,INTERMEDIATE,314,LUMENAL,Best pocket nucleophile at residue 314 lies in a lumenal domain (organellar lumen; not directly extracellular)
+Q9Y694,SLC22A7,12,UNKNOWN,79,NO_TOPOLOGY_ANNOTATION,12 TM helix(es) but no Topological-domain annotation in UniProt
+Q9Y6I8,PXMP4,2,UNKNOWN,129,NO_TOPOLOGY_ANNOTATION,2 TM helix(es) but no Topological-domain annotation in UniProt
+Q9Y6M5,SLC30A1,6,EXTRACELLULAR_POCKET,33,EXTRACELLULAR,Best pocket nucleophile at residue 33 lies in a UniProt-annotated Extracellular topological domain
+Q9Y6M9,NDUFB9,0,INTRACELLULAR,118,INTRACELLULAR_PROTEIN,"No TM helix, no secreted/GPI/extracellular annotation; subcellular: mitochondrion inner membrane"

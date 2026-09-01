@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "BTR-Score: Structural bioinformatics survey of binding-triggered release targetability"
+authors:
+  - family-names: Shen
+    given-names: Chen
+  - family-names: Li
+    given-names: Deze
+  - family-names: Chen
+    given-names: Hao
+  - family-names: Ni
+    given-names: Xin
+url: "https://github.com/shenchen1110/BTR-Score"
+version: 1.0.0
+date-released: 2026-08-31
+license: MIT
